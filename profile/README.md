@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../assets/nientra-banner.png" alt="Nientra - Work less. Win more. A red setting sun over a manga-style background." width="100%" />
+  <img src="../assets/1-nientra-banner.png" alt="Nientra - Work less. Win more. A red setting sun over a manga-style background." width="100%" />
 </p>
 
 <p align="center">
